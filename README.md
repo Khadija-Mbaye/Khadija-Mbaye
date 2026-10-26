@@ -5,7 +5,7 @@
 
 📍 Dakar, Sénégal  
 🎓 Étudiante en Licence 3 Développement d'applications  
-🔎 À la recherche d'un stage de 3 mois en développement web et applications
+🔎 À la recherche d'un stage de 3 à 6 mois en développement web et applications
 
 ---
 
@@ -85,7 +85,7 @@ Application web interactive permettant d'afficher, rechercher, filtrer et gérer
 
 ## 🎯 Mon objectif professionnel
 
-Je recherche un stage de 3 mois en développement web et applications à Dakar.
+Je recherche un stage de 3 à 6 mois en développement web et applications à Dakar.
 
 Je souhaite mettre en pratique mes connaissances, contribuer à des projets informatiques et continuer à apprendre au contact de développeurs expérimentés.
 
